@@ -1,0 +1,56 @@
+! 9gag.com
+9gag.com###sidebar-stream-1 > .sticky > div
+9gag.com###sidebar-stream-2 > .sticky > div
+9gag.com###sidebar-stream-4 > .sticky > div
+9gag.com###sidebar-stream-5 > .sticky > div
+9gag.com##.board-system
+9gag.com##.drawer-container > .signup-side-banner
+9gag.com##.featured-video.post-view > div
+9gag.com##.signup-list-banner
+9gag.com##.sticky > div > .signup-side-banner
+9gag.com##.sticky > div > section.block-ad
+
+! g1.globo.com
+g1.globo.com##.barra-globocom
+g1.globo.com##.content-intertitle
+g1.globo.com##.content-unordered-list
+g1.globo.com##.cookie-banner-lgpd-animated.cookie-banner-lgpd-visible
+g1.globo.com##.cookie-banner-lgpd-container
+g1.globo.com##.glbbarrawidget
+g1.globo.com##.glb-grid > .mc-column
+g1.globo.com##.mc-bottom
+g1.globo.com##.mc-column.show-multicontent-playlist-container
+g1.globo.com##.theme.post-editorias-e-assuntos
+g1.globo.com##.theme.post-para-voce
+g1.globo.com##div.active-extra-styles.content-text.mc-column:nth-of-type(1)
+g1.globo.com##div.active-extra-styles.content-text.mc-column:nth-of-type(4)
+g1.globo.com##div.active-extra-styles.content-text.mc-column:nth-of-type(7)
+g1.globo.com##footer
+
+! gizmodo
+gizmodo.uol.com.br##.text-center.foo_newsletter
+
+! shopee
+shopee.*##.shopee-search-item-result__item:has([data-sqe="ad"])
+shopee.com.br##div._1YAByT:has([data-sqe="ad"])
+
+! correiobraziliense.com.br
+www.correiobraziliense.com.br##.article > .read-more
+www.correiobraziliense.com.br##.article > ul
+www.correiobraziliense.com.br##.auxiliar
+www.correiobraziliense.com.br##.cb-cloud-tags
+www.correiobraziliense.com.br##.cb-content-home.cb-content > .pub-hor
+www.correiobraziliense.com.br##.cb-headlines
+www.correiobraziliense.com.br##.cb-special-contents
+www.correiobraziliense.com.br##.cc-color-override-504335598.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
+www.correiobraziliense.com.br##.clube-fm
+www.correiobraziliense.com.br##.footer
+www.correiobraziliense.com.br##.keep-reading
+www.correiobraziliense.com.br##.main-col.container > .social
+www.correiobraziliense.com.br##.patrocinado.main-highlight-chamada
+www.correiobraziliense.com.br##.pub-hor
+www.correiobraziliense.com.br##.sidebar
+www.correiobraziliense.com.br##.tags
+www.correiobraziliense.com.br##article.main-highlight-chamada:nth-of-type(3):has-text(em parceria com voos em oferta)
+www.correiobraziliense.com.br##section:nth-of-type(5)
+
