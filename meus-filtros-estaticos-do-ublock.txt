@@ -9,14 +9,18 @@
 9gag.com##.sticky > div > .signup-side-banner
 9gag.com##.sticky > div > section.block-ad
 g1.globo.com##.barra-globocom
+g1.globo.com##.block-podcast
+g1.globo.com##.comments.mc-column
 g1.globo.com##.content-intertitle
 g1.globo.com##.content-unordered-list
 g1.globo.com##.cookie-banner-lgpd-animated.cookie-banner-lgpd-visible
 g1.globo.com##.cookie-banner-lgpd-container
+g1.globo.com##.entities.mc-column
 g1.globo.com##.glbbarrawidget
 g1.globo.com##.glb-grid > .mc-column
 g1.globo.com##.mc-bottom
 g1.globo.com##.mc-column.show-multicontent-playlist-container
+g1.globo.com##.post-previsao-do-tempo.post-bastian-products
 g1.globo.com##.rec-topo-mc
 g1.globo.com##.theme.post-editorias-e-assuntos
 g1.globo.com##.theme.post-para-voce
@@ -36,6 +40,7 @@ www.correiobraziliense.com.br###cb-publicidade-rasgado-1
 www.correiobraziliense.com.br###cb-publicidade-retangulo-1
 www.correiobraziliense.com.br###cb-publicidade-retangulo-interna
 www.correiobraziliense.com.br###cb-publicidade-retangulo-interna-2
+www.correiobraziliense.com.br###disqus_recommendations
 www.correiobraziliense.com.br##.app_downloadr
 www.correiobraziliense.com.br##.article > .pub-ret
 www.correiobraziliense.com.br##.article > .read-more
@@ -63,8 +68,8 @@ www.correiobraziliense.com.br##.showCloseBtn.pub-anchor-close
 www.correiobraziliense.com.br##.showCloseBtn.pub-anchor-close > svg
 www.correiobraziliense.com.br##.showCloseBtn.pub-anchor-close > svg > use
 www.correiobraziliense.com.br##.sidebar
+www.correiobraziliense.com.br##.sidebar-cb > .social
 www.correiobraziliense.com.br##.special-contents
-www.correiobraziliense.com.br##.tags
 www.correiobraziliense.com.br##.tags
 www.correiobraziliense.com.br##article.main-highlight-chamada:has-text(em parceria com voos em oferta)
 www.correiobraziliense.com.br##article.patrocinado.main-highlight-chamada:nth-of-type(1)
