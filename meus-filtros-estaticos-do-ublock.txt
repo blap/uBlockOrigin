@@ -1,4 +1,3 @@
-! 9gag.com
 9gag.com###sidebar-stream-1 > .sticky > div
 9gag.com###sidebar-stream-2 > .sticky > div
 9gag.com###sidebar-stream-4 > .sticky > div
@@ -9,8 +8,6 @@
 9gag.com##.signup-list-banner
 9gag.com##.sticky > div > .signup-side-banner
 9gag.com##.sticky > div > section.block-ad
-
-! g1.globo.com
 g1.globo.com##.barra-globocom
 g1.globo.com##.content-intertitle
 g1.globo.com##.content-unordered-list
@@ -20,37 +17,57 @@ g1.globo.com##.glbbarrawidget
 g1.globo.com##.glb-grid > .mc-column
 g1.globo.com##.mc-bottom
 g1.globo.com##.mc-column.show-multicontent-playlist-container
+g1.globo.com##.rec-topo-mc
 g1.globo.com##.theme.post-editorias-e-assuntos
 g1.globo.com##.theme.post-para-voce
 g1.globo.com##div.active-extra-styles.content-text.mc-column:nth-of-type(1)
 g1.globo.com##div.active-extra-styles.content-text.mc-column:nth-of-type(4)
 g1.globo.com##div.active-extra-styles.content-text.mc-column:nth-of-type(7)
 g1.globo.com##footer
-
-! gizmodo
 gizmodo.uol.com.br##.text-center.foo_newsletter
-
-! shopee
+mail.google.com###\:63 > div:nth-of-type(1) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td
+mail.google.com##tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(1) > td > a[href^="http://li.blogtrottr.com/click"]
+mail.google.com##tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(3)
+mail.google.com##tr:nth-of-type(4) > td > table
 shopee.*##.shopee-search-item-result__item:has([data-sqe="ad"])
 shopee.com.br##div._1YAByT:has([data-sqe="ad"])
-
-! correiobraziliense.com.br
+www.correiobraziliense.com.br###cb-publicidade-halfpage-1
+www.correiobraziliense.com.br###cb-publicidade-rasgado-1
+www.correiobraziliense.com.br###cb-publicidade-retangulo-1
+www.correiobraziliense.com.br###cb-publicidade-retangulo-interna
+www.correiobraziliense.com.br###cb-publicidade-retangulo-interna-2
+www.correiobraziliense.com.br##.app_downloadr
+www.correiobraziliense.com.br##.article > .pub-ret
 www.correiobraziliense.com.br##.article > .read-more
 www.correiobraziliense.com.br##.article > ul
 www.correiobraziliense.com.br##.auxiliar
+www.correiobraziliense.com.br##.box-especial
 www.correiobraziliense.com.br##.cb-cloud-tags
 www.correiobraziliense.com.br##.cb-content-home.cb-content > .pub-hor
 www.correiobraziliense.com.br##.cb-headlines
+www.correiobraziliense.com.br##.cb-headlines > article
+www.correiobraziliense.com.br##.cb-main-wrap > .pub-hor
 www.correiobraziliense.com.br##.cb-special-contents
 www.correiobraziliense.com.br##.cc-color-override-504335598.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
 www.correiobraziliense.com.br##.clube-fm
+www.correiobraziliense.com.br##.duo-half > div:nth-of-type(2)
 www.correiobraziliense.com.br##.footer
 www.correiobraziliense.com.br##.keep-reading
 www.correiobraziliense.com.br##.main-col.container > .social
+www.correiobraziliense.com.br##.news_box--block > .social
 www.correiobraziliense.com.br##.patrocinado.main-highlight-chamada
 www.correiobraziliense.com.br##.pub-hor
+www.correiobraziliense.com.br##.publicidade-legal
+www.correiobraziliense.com.br##.pub-ret
+www.correiobraziliense.com.br##.showCloseBtn.pub-anchor-close
+www.correiobraziliense.com.br##.showCloseBtn.pub-anchor-close > svg
+www.correiobraziliense.com.br##.showCloseBtn.pub-anchor-close > svg > use
 www.correiobraziliense.com.br##.sidebar
+www.correiobraziliense.com.br##.special-contents
 www.correiobraziliense.com.br##.tags
-www.correiobraziliense.com.br##article.main-highlight-chamada:nth-of-type(3):has-text(em parceria com voos em oferta)
-www.correiobraziliense.com.br##section:nth-of-type(5)
-
+www.correiobraziliense.com.br##.tags
+www.correiobraziliense.com.br##article.main-highlight-chamada:has-text(em parceria com voos em oferta)
+www.correiobraziliense.com.br##article.patrocinado.main-highlight-chamada:nth-of-type(1)
+www.correiobraziliense.com.br##div.trio:nth-of-type(1) > article.patrocinado.main-highlight-chamada:nth-of-type(2)
+www.correiobraziliense.com.br##div.trio:nth-of-type(1) > article.patrocinado.main-highlight-chamada:nth-of-type(3)
+www.correiobraziliense.com.br##div.trio:nth-of-type(6) > .patrocinado.main-highlight-chamada
