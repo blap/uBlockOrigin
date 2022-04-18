@@ -71,8 +71,15 @@ www.correiobraziliense.com.br##.sidebar
 www.correiobraziliense.com.br##.sidebar-cb > .social
 www.correiobraziliense.com.br##.special-contents
 www.correiobraziliense.com.br##.tags
-www.correiobraziliense.com.br##article.main-highlight-chamada:has-text(em parceria com voos em oferta)
+www.correiobraziliense.com.br##article.main-highlight-chamada:has-text(EM PARCERIA COM VOOS EM OFERTA)
 www.correiobraziliense.com.br##article.patrocinado.main-highlight-chamada:nth-of-type(1)
 www.correiobraziliense.com.br##div.trio:nth-of-type(1) > article.patrocinado.main-highlight-chamada:nth-of-type(2)
 www.correiobraziliense.com.br##div.trio:nth-of-type(1) > article.patrocinado.main-highlight-chamada:nth-of-type(3)
 www.correiobraziliense.com.br##div.trio:nth-of-type(6) > .patrocinado.main-highlight-chamada
+www.metropoles.com##.category-colunas.m-category-home
+www.metropoles.com##.category-esportes.m-category-home
+www.metropoles.com##.category-vida-e-estilo.m-category-home
+www.metropoles.com##.is-widescreen.container > .is-hidden-desktop-only.m-social-media-header
+www.metropoles.com##.m-category-intervalo.m-category-home
+www.metropoles.com##.m-category-vitrine-m.m-category-home
+www.metropoles.com##.m-position-widget.is-full.is-one-third-desktop.is-one-quarter-widescreen.column > .is-hidden-desktop-only.m-social-media-header
