@@ -19,6 +19,7 @@ carrinho.ingresso.com
 cav.receita.fazenda.gov.br
 cliente.americanas.com.br
 cnetmobile.estaleiro.serpro.gov.br
+dnsexit.com
 docplayer.com.br
 feiravirtual.blob.core.windows.net
 filecr.com
@@ -33,11 +34,11 @@ legendas.tv
 linkshrnk.com
 login.nvgs.nvidia.com
 login.zoom.com.br
-mail.carf.economia.gov.br
 mail-inspector.serpro.gov.br
+mail.carf.economia.gov.br
 meu.electrolux.com.br
-minhaclaroresidencial.claro.com.br
 minha-conta.ingresso.com
+minhaclaroresidencial.claro.com.br
 mtegovbr.sharepoint.com
 myapplications.microsoft.com
 paineldeprecos.planejamento.gov.br
@@ -51,6 +52,7 @@ raiox.economia.gov.br
 reports.adguard.com
 sacola.americanas.com.br
 sadd.suiterfb.receita.fazenda
+salsa.debian.org
 secure.d4sign.com.br
 seulink.net
 sisref.sigepe.gov.br
@@ -62,6 +64,7 @@ tutoriais.comprasgovernamentais.gov.br
 vtt.to
 web.telegram.org
 webbanking.bancopan.com.br
+wit.ai
 www.2bc.com.br
 www.americanas.com.br
 www.amil.com.br
@@ -73,6 +76,7 @@ www.change.org
 www.coursera.org
 www.domosolucoes.com.br
 www.edulivre.org.br
+www.filedropper.com
 www.hdat2.com
 www.latam.com
 www.latamairlines.com
@@ -96,5 +100,3 @@ www.worldvision.org
 www2.scdp.gov.br
 www3.bcb.gov.br
 xdocs.com.br
-
-
