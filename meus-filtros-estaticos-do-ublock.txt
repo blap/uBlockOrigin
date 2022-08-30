@@ -70,3 +70,7 @@ www.metropoles.com##.m-category-vitrine-m.m-category-home
 www.metropoles.com##.m-position-widget.is-full.is-one-third-desktop.is-one-quarter-widescreen.column > .is-hidden-desktop-only.m-social-media-header
 www.metropoles.com##.m-read-more-content.m-news-list-content
 www.metropoles.com##div.is-full.column > .is-hidden-desktop-only.m-social-media-header
+g1.globo.com##.glbbarrawidget
+g1.globo.com##.barra-globocom
+g1.globo.com##.mc-bottom
+g1.globo.com##.comments.mc-column
