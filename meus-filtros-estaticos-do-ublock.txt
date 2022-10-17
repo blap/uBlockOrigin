@@ -24,8 +24,13 @@ www.correiobraziliense.com.br##.capadoDia
 www.correiobraziliense.com.br##.col-3 > .colun-3
 www.correiobraziliense.com.br##.div-right
 www.correiobraziliense.com.br##.esportes
+www.correiobraziliense.com.br##.footer
 www.correiobraziliense.com.br##.icons
+www.correiobraziliense.com.br##.keep-reading
+www.correiobraziliense.com.br##.main-col.container > .social
 www.correiobraziliense.com.br##.publi
+www.correiobraziliense.com.br##.sidebar
+www.correiobraziliense.com.br##.tags
 www.metropoles.com###m-footer
 www.metropoles.com##.category-colunas.m-category-home
 www.metropoles.com##.category-esportes.m-category-home
