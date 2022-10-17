@@ -3,11 +3,16 @@
 9gag.com###sidebar-stream-4 > .sticky > div
 9gag.com###sidebar-stream-5 > .sticky > div
 9gag.com##.board-system
+9gag.com##.campaign-banner
 9gag.com##.drawer-container > .signup-side-banner
 9gag.com##.featured-video.post-view > div
 9gag.com##.signup-list-banner
 9gag.com##.sticky > div > .signup-side-banner
 9gag.com##.sticky > div > section.block-ad
+g1.globo.com##.barra-globocom
+g1.globo.com##.comments.mc-column
+g1.globo.com##.glbbarrawidget
+g1.globo.com##.mc-bottom
 gizmodo.uol.com.br##.text-center.foo_newsletter
 mail.google.com###\:63 > div:nth-of-type(1) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td
 mail.google.com##tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(1) > td > a[href^="http://li.blogtrottr.com/click"]
@@ -15,49 +20,12 @@ mail.google.com##tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(3)
 mail.google.com##tr:nth-of-type(4) > td > table
 shopee.*##.shopee-search-item-result__item:has([data-sqe="ad"])
 shopee.com.br##div._1YAByT:has([data-sqe="ad"])
-www.correiobraziliense.com.br###cb-publicidade-halfpage-1
-www.correiobraziliense.com.br###cb-publicidade-rasgado-1
-www.correiobraziliense.com.br###cb-publicidade-retangulo-1
-www.correiobraziliense.com.br###cb-publicidade-retangulo-interna
-www.correiobraziliense.com.br###cb-publicidade-retangulo-interna-2
-www.correiobraziliense.com.br###disqus_recommendations
-www.correiobraziliense.com.br##.app_downloadr
-www.correiobraziliense.com.br##.article > .pub-ret
-www.correiobraziliense.com.br##.article > .read-more
-www.correiobraziliense.com.br##.article > ul
-www.correiobraziliense.com.br##.auxiliar
-www.correiobraziliense.com.br##.box-especial
-www.correiobraziliense.com.br##.cb-cloud-tags
-www.correiobraziliense.com.br##.cb-content-home.cb-content > .pub-hor
-www.correiobraziliense.com.br##.cb-headlines
-www.correiobraziliense.com.br##.cb-headlines > article
-www.correiobraziliense.com.br##.cb-main-wrap > .pub-hor
-www.correiobraziliense.com.br##.cb-no-image
-www.correiobraziliense.com.br##.cb-special-contents
-www.correiobraziliense.com.br##.cc-color-override-504335598.cc-bottom.cc-theme-block.cc-type-opt-in.cc-banner.cc-window
-www.correiobraziliense.com.br##.clube-fm
-www.correiobraziliense.com.br##.duo-half > div:nth-of-type(2)
-www.correiobraziliense.com.br##.footer
-www.correiobraziliense.com.br##.keep-reading
-www.correiobraziliense.com.br##.main-col.container > .social
-www.correiobraziliense.com.br##.news_box--block > .social
-www.correiobraziliense.com.br##.patrocinado.main-highlight-chamada
-www.correiobraziliense.com.br##.pub-hor
-www.correiobraziliense.com.br##.publicidade-legal
-www.correiobraziliense.com.br##.pub-ret
-www.correiobraziliense.com.br##.showCloseBtn.pub-anchor-close
-www.correiobraziliense.com.br##.showCloseBtn.pub-anchor-close > svg
-www.correiobraziliense.com.br##.showCloseBtn.pub-anchor-close > svg > use
-www.correiobraziliense.com.br##.sidebar
-www.correiobraziliense.com.br##.sidebar-cb > .social
-www.correiobraziliense.com.br##.special-contents
-www.correiobraziliense.com.br##.tags
-www.correiobraziliense.com.br##article.main-highlight-chamada:has-text(EM PARCERIA COM VOOS EM OFERTA)
-www.correiobraziliense.com.br##article.main-highlight-chamada:has-text(em parceria com voos em oferta)
-www.correiobraziliense.com.br##article.patrocinado.main-highlight-chamada:nth-of-type(1)
-www.correiobraziliense.com.br##div.trio:nth-of-type(1) > article.patrocinado.main-highlight-chamada:nth-of-type(2)
-www.correiobraziliense.com.br##div.trio:nth-of-type(1) > article.patrocinado.main-highlight-chamada:nth-of-type(3)
-www.correiobraziliense.com.br##div.trio:nth-of-type(6) > .patrocinado.main-highlight-chamada
+www.correiobraziliense.com.br##.capadoDia
+www.correiobraziliense.com.br##.col-3 > .colun-3
+www.correiobraziliense.com.br##.div-right
+www.correiobraziliense.com.br##.esportes
+www.correiobraziliense.com.br##.icons
+www.correiobraziliense.com.br##.publi
 www.metropoles.com###m-footer
 www.metropoles.com##.category-colunas.m-category-home
 www.metropoles.com##.category-esportes.m-category-home
@@ -67,10 +35,7 @@ www.metropoles.com##.is-widescreen.container > .is-hidden-desktop-only.m-social-
 www.metropoles.com##.m-banner-block-widescreen.is-hidden-desktop-only.is-hidden-touch.is-full.is-one-quarter-widescreen.column
 www.metropoles.com##.m-category-intervalo.m-category-home
 www.metropoles.com##.m-category-vitrine-m.m-category-home
+www.metropoles.com##.m-header-content > .m-social-media-header > ul
 www.metropoles.com##.m-position-widget.is-full.is-one-third-desktop.is-one-quarter-widescreen.column > .is-hidden-desktop-only.m-social-media-header
 www.metropoles.com##.m-read-more-content.m-news-list-content
 www.metropoles.com##div.is-full.column > .is-hidden-desktop-only.m-social-media-header
-g1.globo.com##.glbbarrawidget
-g1.globo.com##.barra-globocom
-g1.globo.com##.mc-bottom
-g1.globo.com##.comments.mc-column
