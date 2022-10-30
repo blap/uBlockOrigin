@@ -29,6 +29,7 @@ www.correiobraziliense.com.br###cookies_container
 www.correiobraziliense.com.br##.capadoDia
 www.correiobraziliense.com.br##.col-3 > .colun-3
 www.correiobraziliense.com.br##.colun-3
+www.correiobraziliense.com.br##div.line-2 > article.sm.cardStandard:has-text(em parceria com voos em oferta)
 www.correiobraziliense.com.br##.div-right
 www.correiobraziliense.com.br##.esportes
 www.correiobraziliense.com.br##.footer
