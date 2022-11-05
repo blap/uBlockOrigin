@@ -1,3 +1,4 @@
+
 9gag.com###sidebar-stream-1 > .sticky > div
 9gag.com###sidebar-stream-2 > .sticky > div
 9gag.com###sidebar-stream-4 > .sticky > div
@@ -17,6 +18,7 @@ g1.globo.com##.comments.mc-column
 g1.globo.com##.contentshare-bar--cloned.contentshare-bar
 g1.globo.com##.glbbarrawidget
 g1.globo.com##.mc-bottom
+g1.globo.com##.theme.post-editorias-e-assuntos
 gizmodo.uol.com.br##.text-center.foo_newsletter
 mail.google.com###\:63 > div:nth-of-type(1) > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td
 mail.google.com##tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(1) > td > a[href^="http://li.blogtrottr.com/click"]
@@ -27,9 +29,9 @@ shopee.com.br##div._1YAByT:has([data-sqe="ad"])
 www.correiobraziliense.com.br###assine
 www.correiobraziliense.com.br###cookies_container
 www.correiobraziliense.com.br##.capadoDia
+www.correiobraziliense.com.br##.cb-main-warp > .capa
 www.correiobraziliense.com.br##.col-3 > .colun-3
 www.correiobraziliense.com.br##.colun-3
-www.correiobraziliense.com.br##div.line-2 > article.sm.cardStandard:has-text(EM PARCERIA COM VOOS EM OFERTA)
 www.correiobraziliense.com.br##.div-right
 www.correiobraziliense.com.br##.esportes
 www.correiobraziliense.com.br##.footer
@@ -39,8 +41,12 @@ www.correiobraziliense.com.br##.main-col.container > .social
 www.correiobraziliense.com.br##.publi
 www.correiobraziliense.com.br##.share
 www.correiobraziliense.com.br##.sidebar
+www.correiobraziliense.com.br##.slide
 www.correiobraziliense.com.br##.socialBar
 www.correiobraziliense.com.br##.tags
+www.correiobraziliense.com.br##.vitrine
+www.correiobraziliense.com.br##div.line-2 > article.sm.cardStandard:has-text(EM PARCERIA COM VOOS EM OFERTA)
+www.correiobraziliense.com.br##div.line-2 > article.sm.cardStandard:has-text(Passagens)
 www.metropoles.com###m-footer
 www.metropoles.com##.category-colunas.m-category-home
 www.metropoles.com##.category-esportes.m-category-home
@@ -51,6 +57,7 @@ www.metropoles.com##.m-banner-block-widescreen.is-hidden-desktop-only.is-hidden-
 www.metropoles.com##.m-category-intervalo.m-category-home
 www.metropoles.com##.m-category-vitrine-m.m-category-home
 www.metropoles.com##.m-header-content > .m-social-media-header > ul
+www.metropoles.com##.m-news-list-content.m-news-list-special-content
 www.metropoles.com##.m-position-widget.is-full.is-one-third-desktop.is-one-quarter-widescreen.column > .is-hidden-desktop-only.m-social-media-header
 www.metropoles.com##.m-read-more-content.m-news-list-content
 www.metropoles.com##.m-social-media-header
