@@ -66,10 +66,10 @@ www.correiobraziliense.com.br##.socialBar
 www.correiobraziliense.com.br##.tags
 www.correiobraziliense.com.br##.vitrine
 www.correiobraziliense.com.br##article.sm.cardStandard:has-text(em parceria com voos em oferta)
-www.correiobraziliense.com.br##h3:has-text(cobertura do correio)
-www.correiobraziliense.com.br##h3:has-text(newsletter)
-www.correiobraziliense.com.br##p.texto:has-text(assine a newsletter do correio)
-www.correiobraziliense.com.br##p.texto:has-text(quer ficar por dentro)
+www.correiobraziliense.com.br##h3:has-text(Cobertura do Correio)
+www.correiobraziliense.com.br##h3:has-text(Newsletter)
+www.correiobraziliense.com.br##p.texto:has-text(Assine a newsletter do Correio)
+www.correiobraziliense.com.br##p.texto:has-text(Quer ficar por dentro)
 www.correiobraziliense.com.br##small.d-block
 www.metropoles.com###m-footer
 www.metropoles.com##.category-colunas.m-category-home
