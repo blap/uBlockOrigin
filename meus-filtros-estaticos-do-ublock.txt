@@ -1,3 +1,4 @@
+
 9gag.com###sidebar-stream-1 > .sticky > div
 9gag.com###sidebar-stream-2 > .sticky > div
 9gag.com###sidebar-stream-4 > .sticky > div
@@ -40,6 +41,7 @@ shopee.com.br##div._1YAByT:has([data-sqe="ad"])
 www.correiobraziliense.com.br###assine
 www.correiobraziliense.com.br###comentarios
 www.correiobraziliense.com.br###cookies_container
+www.correiobraziliense.com.br###moreviews
 www.correiobraziliense.com.br##.article > .read-more
 www.correiobraziliense.com.br##.blogs
 www.correiobraziliense.com.br##.capadoDia
