@@ -1,4 +1,3 @@
-
 9gag.com###sidebar-stream-1 > .sticky > div
 9gag.com###sidebar-stream-2 > .sticky > div
 9gag.com###sidebar-stream-4 > .sticky > div
@@ -58,6 +57,7 @@ www.correiobraziliense.com.br##.main-col.container > .social
 www.correiobraziliense.com.br##.opiniao
 www.correiobraziliense.com.br##.patrocinado
 www.correiobraziliense.com.br##.publi
+www.correiobraziliense.com.br##.read-more
 www.correiobraziliense.com.br##.revista
 www.correiobraziliense.com.br##.share
 www.correiobraziliense.com.br##.sidebar
