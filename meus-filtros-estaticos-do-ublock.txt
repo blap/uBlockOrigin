@@ -82,6 +82,8 @@ www.correiobraziliense.com.br##p.texto:has-text(O Correio tem um espaço)
 www.correiobraziliense.com.br##p.texto:has-text(O formato de distribuição de notícias)
 www.correiobraziliense.com.br##p.texto:has-text(Quer ficar por dentro)
 www.correiobraziliense.com.br##p.texto:has-text(Receba direto no celular)
+www.correiobraziliense.com.br##p:has-text(O Correio tem um espaço)
+www.correiobraziliense.com.br##p:has-text(Receba direto no celular)
 www.correiobraziliense.com.br##small.d-block
 www.correiobraziliense.com.br##ul
 www.metropoles.com###m-footer
@@ -93,6 +95,7 @@ www.metropoles.com##.is-widescreen.container > .is-hidden-desktop-only.m-social-
 www.metropoles.com##.m-banner-block-widescreen.is-hidden-desktop-only.is-hidden-touch.is-full.is-one-quarter-widescreen.column
 www.metropoles.com##.m-category-intervalo.m-category-home
 www.metropoles.com##.m-category-vitrine-m.m-category-home
+www.metropoles.com##.m-colunas-blogs
 www.metropoles.com##.m-header-content > .m-social-media-header > ul
 www.metropoles.com##.m-news-list-content.m-news-list-special-content
 www.metropoles.com##.m-position-widget.is-full.is-one-third-desktop.is-one-quarter-widescreen.column > .is-hidden-desktop-only.m-social-media-header
@@ -101,6 +104,21 @@ www.metropoles.com##.m-related-news.m-news-list-content
 www.metropoles.com##.m-social-coluna
 www.metropoles.com##.m-social-media-header
 www.metropoles.com##.rs_skip.comments
+www.metropoles.com##.social-media
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/footer)
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/header/nav/div/div[3]/div/ul)
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/div[10])
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/div[1])
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/div[4])
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/div[5]/div/div/div[2])
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/div[6])
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/div[7])
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/div[8]/div)
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/div[9])
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/section[3]/div)
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/section[4]/div)
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/section[6])
+www.metropoles.com##:xpath(/html/body/div/div/div[1]/main/section[7])
 www.metropoles.com##div.is-full.column > .is-hidden-desktop-only.m-social-media-header
 www.metropoles.com##p:has-text(Receba notícias do Metrópoles)
 www.picnob.com##.ah-box
