@@ -55,7 +55,6 @@ www.correiobraziliense.com.br##.bgNewsletter
 www.correiobraziliense.com.br##.blogs
 www.correiobraziliense.com.br##.capadoDia
 www.correiobraziliense.com.br##.cb-main-warp > .capa
-www.correiobraziliense.com.br##.colun-1
 www.correiobraziliense.com.br##.div-right
 www.correiobraziliense.com.br##.esportes
 www.correiobraziliense.com.br##.footer
