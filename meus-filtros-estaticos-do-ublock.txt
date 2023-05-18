@@ -55,6 +55,7 @@ www.correiobraziliense.com.br##.bgNewsletter
 www.correiobraziliense.com.br##.blogs
 www.correiobraziliense.com.br##.capadoDia
 www.correiobraziliense.com.br##.cb-main-warp > .capa
+www.correiobraziliense.com.br##.colun-1
 www.correiobraziliense.com.br##.div-right
 www.correiobraziliense.com.br##.esportes
 www.correiobraziliense.com.br##.footer
@@ -77,6 +78,7 @@ www.correiobraziliense.com.br##.vitrine
 www.correiobraziliense.com.br##[href^="https://voosemoferta.correioweb.com.br\/"]
 www.correiobraziliense.com.br##article.sm.cardStandard:has-text(Confira o que os astros)
 www.correiobraziliense.com.br##article.sm.cardStandard:has-text(VOOS EM OFERTA)
+www.correiobraziliense.com.br##article.sm.cardStandard:has-text(em parceria com voos em oferta)
 www.correiobraziliense.com.br##article.sm.cardStandard:has-text(voos em oferta)
 www.correiobraziliense.com.br##h3:has-text(Cobertura do Correio)
 www.correiobraziliense.com.br##h3:has-text(Dê a sua opinião)
@@ -96,6 +98,7 @@ www.correiobraziliense.com.br##ul
 www.metropoles.com###m-footer
 www.metropoles.com###onesignal-slidedown-container
 www.metropoles.com##.bloco__publicidade--radio
+www.metropoles.com##.bloco__socialMedia
 www.metropoles.com##.category-colunas.m-category-home
 www.metropoles.com##.category-esportes.m-category-home
 www.metropoles.com##.category-vida-e-estilo.m-category-home
