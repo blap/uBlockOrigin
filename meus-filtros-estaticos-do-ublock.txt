@@ -127,6 +127,7 @@ www.techtracker.in###vtrick-pro-cookie-ify
 ||stellate.metropoles.com/?queryId=noticiasCategoriaEsportes
 ||stellate.metropoles.com/?queryId=noticiasColunasBlogs
 ||stellate.metropoles.com/?queryId=obterColunas
+||stellate.metropoles.com/?queryId=noticiasCategoriaIntervalo
 ||voosemoferta.correioweb.com.br^
 ||www.correiobraziliense.com.br/_conteudo/jsons/blogs.json
 ||www.correiobraziliense.com.br/_conteudo/jsons/ultimas-vitrine.json
